@@ -4,10 +4,10 @@ Helper app to generate my twitter header.
 
 ## Usage
 
-``
+```
 git submodule update --init --recursive
 make.bat
-``
+```
 
 The above script generates `*.out` files.
 Use them on paint tools like Photoshop.
