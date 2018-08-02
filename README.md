@@ -9,7 +9,7 @@ git submodule update --init --recursive
 make.bat
 ```
 
-The above script generates `*.out` files.
+The above script generates `*.txt` files.
 Use them on paint tools like Photoshop.
 
 ## Prerequisuites

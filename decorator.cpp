@@ -1,4 +1,4 @@
-#include "decorate.h"
+#include "decorator.h"
 
 int main(int argc, char** argv) {
   if (!PeekNamedPipe(GetStdHandle(STD_INPUT_HANDLE), NULL, NULL, NULL, NULL, NULL)) {
